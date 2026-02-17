@@ -1,0 +1,18 @@
+{
+  "title": "Energa24 Energy sensor",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Enter the credentials to your Energa24 EBOK",
+        "description": "This integration will add sensors to get gas usage data from Energa24 Sensor. \n\n\n\n {error_info}",
+        "data": {
+          "username": "Username",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "verify_connection_failed": "Login failed!"
+    }
+  }
+}

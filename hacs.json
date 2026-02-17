@@ -1,0 +1,6 @@
+{
+  "name": "Energa24 Energy sensor",
+  "domains": ["sensor"],
+  "country": "PL",
+  "render_readme": true
+}

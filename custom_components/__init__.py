@@ -1,0 +1,1 @@
+"""Energa24 sensor"""
