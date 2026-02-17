@@ -1,0 +1,14 @@
+{
+  "domain": "energa24_sensor",
+  "name": "Energa24 Energy Sensor",
+  "documentation": "https://github.com/MaTyyyJ/energa24_hacs_integration",
+  "issue_tracker": "https://github.com/MaTyyyJ/energa24_hacs_integration/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": [
+    "@MaTyyyJ"
+  ],
+  "requirements": [],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}
